@@ -19,7 +19,7 @@ Un progetto Python per l'analisi statistica e la visualizzazione geografica dei 
 📦 **Struttura del Progetto**
 --------------------------------------------------------------------------
 *   `main.py`: Lo script principale che elabora i dati e genera l'output.
-*   `Grafici Statistiche/`: Cartella contenente tutti i grafici PNG generati.
+*   `Grafici Statistiche`: Cartella contenente tutti i grafici PNG generati.
 *   `Mappa Qualità Aria Con Grafici.html`: La mappa interattiva principale.
 *   `Grafici In Dettaglio.html`: Galleria completa dei grafici generati.
 
