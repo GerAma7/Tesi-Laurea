@@ -28,6 +28,6 @@ Un progetto Python per l'analisi statistica e la visualizzazione geografica dei 
 1. Eseguire il file Tesi.ipynb
 2. N.B. Assicurarsi di avere installato Python su PC.
 
-👤 Autore
+💻 Autore
 ---------------------------------------------------------------
 Gerardo Amatruda
